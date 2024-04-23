@@ -1,0 +1,20 @@
+[
+  {
+    "memberId": "james01",
+    "name": "이상무01",
+    "passwd": "a4321",
+    "email": "james01@naver.com",
+    "cellphone": "010-1234-5678",
+    "regDate": "2024-04-19",
+    "regId": "admin"
+  },
+  {
+    "memberId": "james02",
+    "name": "이상무02",
+    "passwd": "a4321",
+    "email": "james02@naver.com",
+    "cellphone": "010-1234-5679",
+    "regDate": "2024-04-19",
+    "regId": "admin"
+  }
+]
