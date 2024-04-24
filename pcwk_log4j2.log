@@ -1,0 +1,27 @@
+doReadFile()
+listBox.size() : 2
+member count : 2
+doSaveFile count : 3
+doSelectOne()
+memberDTO : MemberDTO [memberId=james01, name=이상무01, passwd=a4321, email=james01@naver.com, cellphone=010-1234-5678, regDate=2024-04-19, regId=admin]
+-----------
+단건 조회 성공!
+MemberDTO [memberId=james01, name=이상무01, passwd=a4321, email=james01@naver.com, cellphone=010-1234-5678, regDate=2024-04-19, regId=admin]
+-----------
+doDelete()
+flag : 1
+-----------
+단건 삭제 성공!
+-----------
+doSaveFile count : 2
+doReadFile()
+listBox.size():2
+member count:2
+doSaveFile()
+doSaveFile count:3
+doRetrieveName()
+MemberDTO [memberId=james01, name=이상무01, passwd=a4321, email=james01@naver.com, cellphone=010-1234-5678, regDate=2024-04-19, regId=admin]
+MemberDTO [memberId=james02, name=이상무02, passwd=a4321, email=james02@naver.com, cellphone=010-1234-5679, regDate=2024-04-19, regId=admin]
+MemberDTO [memberId=james03, name=이상무03, passwd=a4321, email=james03@naver.com, cellphone=010-1234-5680, regDate=2024-04-19, regId=admin]
+doSaveFile()
+doSaveFile count:3
