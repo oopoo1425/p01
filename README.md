@@ -1,9 +1,13 @@
+### 8. 같은 페이지 내 링크
+```
+[4번](#4 "페이지 내 링크")
+```
+[4번](#4 "페이지 내 링크")
 
 ### 7. 하이퍼 링크
 ```
   [링크텍스트](링크 URL "설명")
 ```
-
 [PCWK CADE](https://cafe.daum.net/pcwk "수업자료 LINK")
 
 
@@ -37,6 +41,7 @@
 1. 목록4
 
 ### 4. 코드 블록
+# 4
 ```JAVA
 public class Hello {
   public static void main(String []args){
