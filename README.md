@@ -1,4 +1,6 @@
-### 12. 이미
+### 12. 이미지 링크
+
+![](https://cafe.daum.net/pcwk "수업자료 LINK")
 
 
 ### 11. 수학 수식: LaTex구문
