@@ -1,6 +1,6 @@
 ### 12. 이미지 링크
 
-![](https://cafe.daum.net/pcwk "수업자료 LINK")
+![](https://github.com/oopoo1425/p01/blob/main/20210224_111642.png) "수업자료 LINK")
 
 
 ### 11. 수학 수식: LaTex구문
